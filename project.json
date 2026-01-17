@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-9n4d7ok2"",
-  ""goal"": ""index builder for data cleanup"",
-  ""language"": ""go"",
-  ""template"": ""go-cli""
+    "name":  "rndproj-9n4d7ok2",
+    "goal":  "index builder for data cleanup",
+    "language":  "go",
+    "template":  "go-cli"
 }
